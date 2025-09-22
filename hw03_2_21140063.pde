@@ -1,7 +1,3 @@
-/*
-問題 4.14 21140063 伊藤大陽
-*/
-
 import ddf.minim.*;
 Minim minim;
 AudioPlayer player;
